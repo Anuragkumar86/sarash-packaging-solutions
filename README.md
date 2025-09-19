@@ -7,10 +7,10 @@ A modern, fast, and SEO-friendly website built for **Sarash Packaging Solutions*
 
 | Page        | Screenshot |
 |-------------|-------------|
-| **Homepage** | ![Homepage Screenshot](/public/docs/homepage.png) |
-| **About Us** | ![About Screenshot](/public/docs/about.png) |
-| **Catalogue** | ![Catalogue Screenshot](/public/docs/catalogue.png) |
-| **Contact** | ![Contact Screenshot](/public/docs/contact.png) |
+| **Homepage** | ![Homepage Screenshot](public/docs/homepage.png) |
+| **About Us** | ![About Screenshot](public/docs/about.png) |
+| **Catalogue** | ![Catalogue Screenshot](public/docs/catalogue.png) |
+| **Contact** | ![Contact Screenshot](public/docs/contact.png) |
 
 ---
 
