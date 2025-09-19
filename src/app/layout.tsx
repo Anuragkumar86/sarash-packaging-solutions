@@ -5,7 +5,10 @@ import Footer from '@/app/components/Footer'
 
 export const metadata: Metadata = {
   title: 'SARASH Packaging Solutions',
-  description: 'Reliable PET & HDPE packaging solutions for Pharmaceuticals, Cosmetics & Healthcare companies.'
+  description: 'Reliable PET & HDPE packaging solutions for Pharmaceuticals, Cosmetics & Healthcare companies.',
+  icons: {
+    icon: 'images/Logo.png',
+  },
 }
 
 export default function RootLayout({

@@ -13,7 +13,7 @@ export default function Header() {
 
                 {/* Logo / Brand */}
                 <Link href="/" className="text-2xl font-extrabold text-blue-700 md:ml-10">
-                    <img className='w-25 h-15 bg-gray-800 hover:scale-110' src={"/images/Logo.png"}></img>
+                    <img className='w-25 h-15 bg-green-900 rounded-lg scale-120 hover:scale-110' src={"/images/Logo.png"}></img>
                 </Link>
 
                 {/* Center Navigation */}
