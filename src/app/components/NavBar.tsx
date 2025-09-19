@@ -26,22 +26,22 @@ export default function Header() {
                 </nav>
 
                 {/* Social Media Icons */}
-                <div className="hidden md:flex space-x-4 text-gray-800 md:mr-10">
+                <div className="hidden md:flex space-x-4 text-gray-800 md:mr-10 lg:mr-10">
                     <a
                         href="https://www.facebook.com/profile.php?id=61580547964027"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="flex items-center justify-center w-10 h-10 rounded-full bg-gray-300 text-black hover:bg-blue-600 hover:text-white hover:scale-110 transition-transform duration-200"
+                        className="flex items-center justify-center w-10 h-10 rounded-full bg-gray-400 text-black hover:bg-blue-600 hover:text-white hover:scale-110 transition-transform duration-200"
                     >
-                        <FaFacebookF />
+                        <FaFacebookF/>
                     </a>
 
 
                     {/* <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center w-10 h-10 rounded-full bg-gray-300 text-bleck hover:bg-gray-600 hover:text-white hover:scale-110 transition-transform duration-200">
                         <FaTwitter />
                     </a> */}
-                    
-                    <a href="https://www.instagram.com/sarash.packaging.solutions/" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center w-10 h-10 rounded-full bg-gray-300 text-bleck hover:bg-pink-600 hover:text-white hover:scale-110 transition-transform duration-200">
+
+                    <a href="https://www.instagram.com/sarash.packaging.solutions/" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center w-10 h-10 rounded-full bg-gray-400 text-bleck hover:bg-pink-600 hover:text-white hover:scale-110 transition-transform duration-200">
                         <FaInstagram />
                     </a>
                 </div>

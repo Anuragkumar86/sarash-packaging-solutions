@@ -123,8 +123,7 @@ export default function AboutPage() {
                 src={img}
                 alt={`Product ${i + 1}`}
                 fill
-                style={{ objectFit: "contain" }}
-                className="transform group-hover:scale-110 transition duration-500"
+                className="object-contain transform group-hover:scale-110 transition duration-500"
               />
             </div>
           ))}

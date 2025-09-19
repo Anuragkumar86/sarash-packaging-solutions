@@ -50,7 +50,7 @@ export default function WhyUsPage() {
   return (
     <div>
       {/* Hero */}
-      <section className="relative h-[40vh] w-full bg-gradient-to-r from-blue-900 to-blue-600 flex items-center justify-center">
+      <section className="relative h-[15vh] w-full bg-gradient-to-r from-blue-900 to-blue-600 flex items-center justify-center">
         <h1 className="text-4xl md:text-5xl font-bold text-white drop-shadow-lg">
           Why Choose SARASH?
         </h1>
