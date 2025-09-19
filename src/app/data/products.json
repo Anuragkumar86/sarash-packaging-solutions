@@ -1,0 +1,152 @@
+[
+  {
+    "id": "15ml-round-22mm-25mm",
+    "title": "15ML Round Bottle (22MM, 25MM)",
+    "image": "/images/15ML.png",
+    "description": "Small 15ml round amber PET bottle with 22mm/25mm neck finish. Suitable for pharmaceutical samples, essential oils, or cosmetic serums. Amber color provides UV protection for light-sensitive liquids."
+  },
+  {
+    "id": "30ml-round",
+    "title": "30ML Round Bottle",
+    "image": "/images/30ML Round.png",
+    "description": "30ml round amber PET bottle ideal for medicines, syrups, or cosmetic liquids. Compact size makes it perfect for travel packs and sample products."
+  },
+  {
+    "id": "60ml-round",
+    "title": "60ML Round Bottle",
+    "image": "/images/60ML Round.png",
+    "description": "60ml round PET bottle commonly used in pharmaceuticals, sanitizers, and lotions. Durable, lightweight, and portable for healthcare applications."
+  },
+  {
+    "id": "100ml-round",
+    "title": "100ML Round Bottle",
+    "image": "/images/100ML Round.png",
+    "description": "100ml round amber PET bottle with pharma-grade quality. Designed for syrups, tonics, and cosmetic solutions requiring protection from light."
+  },
+  {
+    "id": "300ml-dome",
+    "title": "300ML Dome Bottle",
+    "image": "/images/300ML Dome.png",
+    "description": "300ml dome-shaped PET bottle ideal for lotions, body oils, or pharmaceutical syrups. Ergonomic design with smooth dome finish."
+  },
+  {
+    "id": "400ml-round",
+    "title": "400ML Round Bottle",
+    "image": "/images/400ML Round.png",
+    "description": "Large 400ml amber PET bottle suitable for family packs of syrups, tonics, or cosmetic liquids. High capacity with excellent strength."
+  },
+  {
+    "id": "450ml-round-26gm-32gm",
+    "title": "450ML Round Bottle (26GM, 32GM)",
+    "image": "/images/450ML.png",
+    "description": "450ml round PET bottle with weight variations (26gm, 32gm). Designed for bulk packaging of syrups, hand sanitizers, and healthcare liquids."
+  },
+  {
+    "id": "best-selling-bottles",
+    "title": "Best Selling Bottles Poster",
+    "image": "/images/Best Selling Bottles.jpg",
+    "description": "Poster showcasing the best-selling PET bottle models by Sarash Packaging Solutions. Includes various shapes and sizes for pharma and cosmetic use."
+  },
+  {
+    "id": "bg",
+    "title": "Mixed Bottle Set",
+    "image": "/images/bg.png",
+    "description": "Collection of different bottle sizes and shapes. Represents the wide variety of packaging solutions available for pharma and cosmetics."
+  },
+  {
+    "id": "bg2",
+    "title": "Colored Bottle Collection",
+    "image": "/images/bg2.png",
+    "description": "Group image featuring PET bottles in various colors and sizes. Suitable for healthcare, cosmetics, and personal care packaging."
+  },
+  {
+    "id": "bg3",
+    "title": "Cosmetic Jars & Bottles Collection",
+    "image": "/images/bg3.png",
+    "description": "A collection of cosmetic jars and PET bottles, showcasing packaging options for creams, lotions, and healthcare solutions."
+  },
+  {
+    "id": "brute-100ml-200ml",
+    "title": "Brute 100ML, 200ML Bottles",
+    "image": "/images/Brute 100ML, 200ML.png",
+    "description": "Strong and durable PET bottles in 100ml and 200ml capacity. Ideal for pharmaceuticals and high-viscosity liquids."
+  },
+  {
+    "id": "disc-top-cap",
+    "title": "DISC TOP CAP",
+    "image": "/images/DISC TOP CAP.png",
+    "description": "Disc top cap commonly used for lotions, shampoos, and healthcare liquids. Easy-to-open design ensures convenient dispensing."
+  },
+  {
+    "id": "dispenser-pump",
+    "title": "DISPENSER PUMP",
+    "image": "/images/DISPENSER PUMP.png",
+    "description": "Dispenser pump ideal for hand wash, liquid soap, sanitizers, and cosmetic creams. Ensures controlled dispensing with every press."
+  },
+  {
+    "id": "dropper-tip-cap",
+    "title": "DROPPER TIP CAP",
+    "image": "/images/DROPPER TIP CAP.png",
+    "description": "Dropper tip cap suitable for precise dispensing of medicines, eye drops, and essential oils. Provides safe, controlled flow."
+  },
+  {
+    "id": "edible-oil-cap",
+    "title": "EDIBLE OIL CAP",
+    "image": "/images/EDIBLE OIL CAP.png",
+    "description": "Plastic cap designed for edible oil bottles. Provides leak-proof sealing and hygienic storage."
+  },
+  {
+    "id": "edible-oil-upper-cap",
+    "title": "EDIBLE OIL UPPER CAP",
+    "image": "/images/EDIBLE OIL UPPER CAP.png",
+    "description": "Upper cap for edible oil bottles. Ensures spill-free pouring and durability for long-term storage."
+  },
+  {
+    "id": "flip-top-cap",
+    "title": "FLIP TOP CAP",
+    "image": "/images/FLIP TOP CAP.png",
+    "description": "Flip top cap designed for shampoos, lotions, and healthcare liquids. User-friendly design for one-handed operation."
+  },
+  {
+    "id": "measuring-cap",
+    "title": "Measuring Cap",
+    "image": "/images/Measuring Cap.png",
+    "description": "Graduated measuring cap for precise liquid measurement. Widely used in pharmaceuticals and syrups."
+  },
+  {
+    "id": "mist-spray-pump",
+    "title": "MIST SPRAY PUMP",
+    "image": "/images/MIST SPRAY PUMP.png",
+    "description": "Fine mist spray pump designed for perfumes, sanitizers, and cosmetic sprays. Provides even atomization."
+  },
+  {
+    "id": "pr-ropp-cap",
+    "title": "PR, ROPP Cap",
+    "image": "/images/PR, ROPP Cap.png",
+    "description": "Plastic ROPP cap (Roll-On Pilfer Proof) suitable for pharma bottles. Provides secure sealing with tamper-evidence."
+  },
+  {
+    "id": "squeeze-dropper",
+    "title": "SQUEEZE DROPPER",
+    "image": "/images/SQUEEZE DROPPER.png",
+    "description": "Plastic squeeze dropper bottle designed for eye/ear drops and small liquid doses. Offers precision dispensing."
+  },
+  {
+    "id": "tablet-container-60ml",
+    "title": "Tablet Container 60ML",
+    "image": "/images/Tablet Container 60ML.png",
+    "description": "60ml tablet container suitable for storing capsules and tablets. Airtight PET material ensures moisture protection."
+  },
+  {
+    "id": "tablet-container-150ml-200ml",
+    "title": "Tablet Container 150ML, 200ML",
+    "image": "/images/Tablet Container 150ML, 200ML.png",
+    "description": "150ml and 200ml PET containers designed for tablets and capsules. Secure closure to ensure pharma-grade storage."
+  },
+  {
+    "id": "trigger-spray-pump",
+    "title": "TRIGGER SPRAY PUMP",
+    "image": "/images/TRIGGER SPRAY PUMP.png",
+    "description": "Trigger spray pump designed for household cleaners, disinfectants, and cosmetic sprays. Provides wide spray coverage."
+  }
+]
