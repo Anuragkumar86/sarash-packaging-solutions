@@ -12,7 +12,7 @@ export default function Header() {
             <div className="container mx-auto flex justify-between items-center py-4 px-6">
 
                 {/* Logo / Brand */}
-                <Link href="/" className="text-2xl font-extrabold text-blue-700 md:ml-10">
+                <Link href="/" className="text-2xl font-extrabold shadow-lg text-blue-700 md:ml-10">
                     <img className='w-25 h-15 bg-green-900 rounded-lg scale-120 hover:scale-110' src={"/images/Logo.png"}></img>
                 </Link>
 
@@ -66,13 +66,13 @@ export default function Header() {
 
                     {/* Mobile Social Icons */}
                     <div className="flex justify-center space-x-6 pt-4 border-t">
-                        <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600 text-lg">
+                        <a href="https://www.facebook.com/profile.php?id=61580547964027" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600 text-lg">
                             <FaFacebookF />
                         </a>
-                        <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600 text-lg">
+                        {/* <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600 text-lg">
                             <FaTwitter />
-                        </a>
-                        <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="hover:text-pink-600 text-lg">
+                        </a> */}
+                        <a href="https://www.instagram.com/sarash.packaging.solutions/" target="_blank" rel="noopener noreferrer" className="hover:text-pink-600 text-lg">
                             <FaInstagram />
                         </a>
                     </div>

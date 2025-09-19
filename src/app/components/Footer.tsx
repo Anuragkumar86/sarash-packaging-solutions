@@ -19,7 +19,7 @@ export default function Footer() {
         </div>
 
         <div>
-          <h4 className="font-semibold mb-2">Quick Links</h4>
+          <h4 className="font-semibold mb-2 ">Quick Links</h4>
           <ul className="text-sm space-y-1">
             <li><a href="/about" className="hover:underline">About Us</a></li>
             <li><a href="/why-us" className="hover:underline">Why Us</a></li>

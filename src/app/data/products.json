@@ -83,30 +83,7 @@
     "image": "/images/DISPENSER PUMP.png",
     "description": "Dispenser pump ideal for hand wash, liquid soap, sanitizers, and cosmetic creams. Ensures controlled dispensing with every press."
   },
-  {
-    "id": "dropper-tip-cap",
-    "title": "DROPPER TIP CAP",
-    "image": "/images/DROPPER-TIP-CAP.png",
-    "description": "Dropper tip cap suitable for precise dispensing of medicines, eye drops, and essential oils. Provides safe, controlled flow."
-  },
-  {
-    "id": "edible-oil-cap",
-    "title": "EDIBLE OIL CAP",
-    "image": "/images/EDIBLE-OIL-CAP.png",
-    "description": "Plastic cap designed for edible oil bottles. Provides leak-proof sealing and hygienic storage."
-  },
-  {
-    "id": "edible-oil-upper-cap",
-    "title": "EDIBLE OIL UPPER CAP",
-    "image": "/images/EDIBLE-OIL-UPPER-CAP.png",
-    "description": "Upper cap for edible oil bottles. Ensures spill-free pouring and durability for long-term storage."
-  },
-  {
-    "id": "flip-top-cap",
-    "title": "FLIP TOP CAP",
-    "image": "/images/FLIP-TOP-CAP.png",
-    "description": "Flip top cap designed for shampoos, lotions, and healthcare liquids. User-friendly design for one-handed operation."
-  },
+ 
   {
     "id": "measuring-cap",
     "title": "Measuring Cap",

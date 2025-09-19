@@ -109,14 +109,14 @@ export default function AboutPage() {
         <h2 className="text-3xl font-bold text-center mb-12 text-gray-800">A Glimpse of Our Products</h2>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
           {[
-            "/images/15ML Round 22M, 25MM.png",
+            "/images/Measuring Cap.png",
             "/images/bg.png",
             "/images/MIST SPRAY PUMP.png",
             "/images/DISPENSER PUMP.png",
             "/images/100ML Round.png",
             "/images/Tablet Container 60ML.png",
             "/images/Brute 100ML, 200ML.png",
-            "/images/DROPPER TIP Cap.png",
+            "/images/SQUEEZE DROPPER.png",
           ].map((img, i) => (
             <div key={i} className="relative h-44 rounded-xl overflow-hidden shadow hover:shadow-lg group">
               <Image

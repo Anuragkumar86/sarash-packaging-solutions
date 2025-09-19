@@ -86,7 +86,7 @@ export default function HomePage() {
         {features.map((f, idx) => (
           <div
             key={idx}
-            className="bg-white rounded-2xl shadow-lg p-8 text-center hover:-translate-y-2 hover:shadow-xl transition"
+            className="bg-gray-100 rounded-2xl shadow-lg p-8 text-center hover:-translate-y-2 hover:shadow-xl transition"
           >
             <div className="text-5xl mb-4">{f.icon}</div>
             <h3 className="font-bold text-xl mb-3 text-gray-800">{f.title}</h3>
@@ -145,7 +145,7 @@ export default function HomePage() {
         <h2 className="text-3xl font-bold mb-10 text-center text-gray-800">
           Latest Products
         </h2>
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {latestProducts.map((p, i) => (
             <div
               key={i}
@@ -156,7 +156,7 @@ export default function HomePage() {
                   src={p.img}
                   alt={p.title}
                   fill
-                  className="object-cover p-5"
+                  className="object-fill md:object-cover p-5"
                 />
               </div>
               <div className="p-4 text-center">
