@@ -1,16 +1,16 @@
 The following is the full, updated content for your `README.md` file. You can copy and paste this entire block directly into a single file.
 
-````markdown
+
 # 🌟 Sarash Packaging Website
 
 A modern, fast, and SEO-friendly website built for **Sarash Packaging Solutions** to showcase their packaging products, authenticity, and services.
 
 | Page        | Screenshot |
 |-------------|-------------|
-| **Homepage** | ![Homepage Screenshot](docs/homepage.png) |
-| **About Us** | ![About Screenshot](docs/about.png) |
-| **Catalogue** | ![Catalogue Screenshot](docs/catalogue.png) |
-| **Contact** | ![Contact Screenshot](./docs/screenshots/contact.png) |
+| **Homepage** | ![Homepage Screenshot](/docs/homepage.png) |
+| **About Us** | ![About Screenshot](/docs/about.png) |
+| **Catalogue** | ![Catalogue Screenshot](/docs//catalogue.png) |
+| **Contact** | ![Contact Screenshot](/docs//contact.png) |
 
 ---
 
@@ -35,25 +35,25 @@ A modern, fast, and SEO-friendly website built for **Sarash Packaging Solutions*
 ```bash
 .
 ├── app/
-│   ├── layout.tsx          # Root layout
-│   ├── page.tsx            # Homepage
-│   ├── about/page.tsx      # About Us page
-│   ├── why-us/page.tsx     # Why Us page
-│   ├── catalogue/page.tsx  # Catalogue page
-│   ├── contact/page.tsx    # Contact page
+│   ├── layout.tsx          
+│   ├── page.tsx            
+│   ├── about/page.tsx      
+│   ├── why-us/page.tsx    
+│   ├── catalogue/page.tsx 
+│   ├── contact/page.tsx   
 │   └── api/
 │       └── contact/
-│           └── route.ts    # API route to handle contact form via Nodemailer
+│           └── route.ts    
 ├── components/
-│   ├── Footer.tsx          # Footer component (imported globally)
-│   ├── Header.tsx          # Navbar / Header
-│   └── ProductCard.tsx     # Product card for catalogue
+│   ├── Footer.tsx        
+│   ├── Header.tsx        
+│   └── ProductCard.tsx  
 ├── data/
-│   └── products.json       # All product metadata (id, title, image, description)
+│   └── products.json   
 ├── public/
-│   └── images/             # Product images (named by id or title)
-├── styles/                 # Global styles if needed
-├── docs/screenshots/       # Screenshots for README
+│   └── images/            
+├── styles/               
+├── docs/screenshots/     
 ├── package.json
 └── README.md
 ````
@@ -65,7 +65,7 @@ A modern, fast, and SEO-friendly website built for **Sarash Packaging Solutions*
 1.  **Clone the repository**
 
     ```bash
-    git clone [https://github.com/](https://github.com/)<your-username>/sarash-packaging.git
+    git clone [https://github.com/Anuragkumar86/sarash-packaging-solutions.git
     cd sarash-packaging
     ```
 
