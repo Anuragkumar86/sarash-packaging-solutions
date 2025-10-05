@@ -6,15 +6,15 @@ export default function Footer() {
         <div>
           <h3 className="text-xl font-bold mb-3">SARASH Packaging Solutions</h3>
           <p className="text-sm">
-            Shiv City Colony, Bhagwanpur, Haridwar, Uttarakhand - 247661
+            Gali No. 6, Shiv City Colony, Makhanpur, Bhagwanpur, Haridwar, Uttarakhand - 247661
           </p>
           <p className="text-sm">GSTIN: 05QZXPS9389J1ZK</p>
         </div>
 
         <div>
           <h4 className="font-semibold mb-2">Contact Us</h4>
-          <p className="text-sm">📞 +91 7004101167</p>
           <p className="text-sm">📞 +91 7654154900</p>
+          <p className="text-sm">📞 +91 7004101167</p>
           <p className="text-sm">✉️ sarash.pkg@gmail.com</p>
         </div>
 

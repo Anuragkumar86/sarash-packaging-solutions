@@ -156,7 +156,7 @@ export default function HomePage() {
                   src={p.img}
                   alt={p.title}
                   fill
-                  className="object-fill md:object-cover p-5"
+                  className="object-contain md:object-cover p-5"
                 />
               </div>
               <div className="p-4 text-center">

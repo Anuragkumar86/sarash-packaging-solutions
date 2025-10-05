@@ -42,8 +42,8 @@ export default function ContactPage() {
             need a quote, or want to discuss your packaging needs — we’re ready to answer.
           </p>
           <div className="space-y-5 text-gray-700 text-lg">
-            <p>📍 <strong>Office:</strong> Shiv City Colony, Bhagwanpur, Haridwar, Uttarakhand - 247661</p>
-            <p>📞 <strong>Phone:</strong> +91 7004101167, +91 7654154900</p>
+            <p>📍 <strong>Office:</strong> Gali No. 6, Shiv City Colony, Makhanpur, Bhagwanpur, Haridwar, Uttarakhand - 247661</p>
+            <p>📞 <strong>Phone:</strong> +91 7654154900, +91 7004101167</p>
             <p>✉️ <strong>Email:</strong> sarash.pkg@gmail.com</p>
             <p>🆔 <strong>GSTIN:</strong> 05QZXPS9389J1ZK</p>
           </div>
